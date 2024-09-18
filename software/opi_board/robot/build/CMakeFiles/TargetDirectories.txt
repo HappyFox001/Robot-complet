@@ -1,0 +1,3 @@
+/home/yong/robot/build/CMakeFiles/robot.dir
+/home/yong/robot/build/CMakeFiles/edit_cache.dir
+/home/yong/robot/build/CMakeFiles/rebuild_cache.dir

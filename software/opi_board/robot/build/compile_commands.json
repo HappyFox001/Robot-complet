@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/robot.dir/main.cpp.o -c /home/yong/robot/main.cpp",
+  "file": "/home/yong/robot/main.cpp"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/robot.dir/radar.cpp.o -c /home/yong/robot/radar.cpp",
+  "file": "/home/yong/robot/radar.cpp"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -std=gnu++11 -o CMakeFiles/robot.dir/apriltagDetect.cpp.o -c /home/yong/robot/apriltagDetect.cpp",
+  "file": "/home/yong/robot/apriltagDetect.cpp"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -o CMakeFiles/robot.dir/tof/nlink_linktrack_nodeframe0.c.o -c /home/yong/robot/tof/nlink_linktrack_nodeframe0.c",
+  "file": "/home/yong/robot/tof/nlink_linktrack_nodeframe0.c"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -o CMakeFiles/robot.dir/tof/nlink_linktrack_nodeframe1.c.o -c /home/yong/robot/tof/nlink_linktrack_nodeframe1.c",
+  "file": "/home/yong/robot/tof/nlink_linktrack_nodeframe1.c"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -o CMakeFiles/robot.dir/tof/nlink_tofsense_frame0.c.o -c /home/yong/robot/tof/nlink_tofsense_frame0.c",
+  "file": "/home/yong/robot/tof/nlink_tofsense_frame0.c"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -o CMakeFiles/robot.dir/tof/nlink_tofsensem_frame0.c.o -c /home/yong/robot/tof/nlink_tofsensem_frame0.c",
+  "file": "/home/yong/robot/tof/nlink_tofsensem_frame0.c"
+},
+{
+  "directory": "/home/yong/robot/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/usr/local/include/src -I/home/yong/robot -I/home/yong/robot/./tof -isystem /usr/include/opencv4 -g -o CMakeFiles/robot.dir/tof/nlink_utils.c.o -c /home/yong/robot/tof/nlink_utils.c",
+  "file": "/home/yong/robot/tof/nlink_utils.c"
+}
+]
